@@ -11,6 +11,7 @@ HSV形式でSとVを指定し(ユーザが直接，あるいは"パステルカ�
 Reactで開発，github-pagesで公開できる静的サイトとして実装する
 
 # Note
+"index.js"におけるルーティングについて：path="/"ではgithub-pagesへのデプロイ時に何も表示されなくなってしまうみたい．github-pagesで設定したドメインと同じpathにする必要がある．
 
 # Requirements
 ```

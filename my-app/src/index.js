@@ -10,7 +10,7 @@ import TopPage from './pages/toppage';
 
 ReactDOM.render(
   <Router>
-    <Route exact path="/" component={TopPage}></Route>
+    <Route exact path="/multiColorGenerator" component={TopPage}></Route>
   </Router>,
   document.getElementById('root')
 );

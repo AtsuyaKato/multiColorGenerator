@@ -78,7 +78,7 @@ export default function ColorGenerator(props) {
         let rgb = [R,G,B];
         //return(R.toString(16));
         //return("R =" + R + ", G = "+ G + ", B = " + B);
-        return(R.toString(16) + G.toString(16) + B.toString(16));
+        return(R.toString(16).padStart(2,'0') + G.toString(16).padStart(2,'0') + B.toString(16).padStart(2,'0'));
     }
 
     const GenerateColorList = () => {
