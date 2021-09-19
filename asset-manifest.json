@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/multiColorGenerator/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/multiColorGenerator/static/js/main.005b0b16.chunk.js",
-    "main.js.map": "/multiColorGenerator/static/js/main.005b0b16.chunk.js.map",
+    "main.js": "/multiColorGenerator/static/js/main.bc0b39ad.chunk.js",
+    "main.js.map": "/multiColorGenerator/static/js/main.bc0b39ad.chunk.js.map",
     "runtime-main.js": "/multiColorGenerator/static/js/runtime-main.1a0b4e0a.js",
     "runtime-main.js.map": "/multiColorGenerator/static/js/runtime-main.1a0b4e0a.js.map",
     "static/js/2.78958961.chunk.js": "/multiColorGenerator/static/js/2.78958961.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.1a0b4e0a.js",
     "static/js/2.78958961.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.005b0b16.chunk.js"
+    "static/js/main.bc0b39ad.chunk.js"
   ]
 }
