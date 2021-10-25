@@ -37,7 +37,7 @@ export default function TopPage(){
             <h3 className={classes.subtitle}>概要 About</h3>
             <p className={classes.text}>入力に応じてカラーコードを○個出力します．「デザインのために○色欲しいなぁ」と言うときに使ってみてください．</p>
             <h3 className={classes.subtitle}>使い方 How to Use</h3>
-            <p className={classes.text}>彩度 Sと明度 V，そして欲しい色の数 Nをそれぞれ入力し，「計算する」ボタンを押します．SとVは0~100%のレンジになっています．</p>
+            <p className={classes.text}>彩度 Sと明度 V，そして欲しい色の数 Nをそれぞれ入力し，「計算する」ボタンを押します．SとVは0~100%のレンジになっています．色相 HをN等分して色を生成し出力します．</p>
             <ColorGenerator></ColorGenerator>
         </div>
     )
